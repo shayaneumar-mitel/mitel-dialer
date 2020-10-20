@@ -1,0 +1,18 @@
+{
+    "name": "hello bot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://192.168.88.1:3000",
+            "id": "75cba3f0-0e98-11eb-bc6c-0b5b6719c492",
+            "name": "http://192.168.88.1:3000"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Official\\MS Teams\\hello-world\\hello bot.bot"
+}
